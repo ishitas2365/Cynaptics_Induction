@@ -1,5 +1,6 @@
 # Cynaptics Induction Task
-Attached are 4 folders to refer to the code.
+Attached are 3 folders to refer to the code.
+Download xmas-training.ipynb to view task1_subtask3
 
 Link to Google docs explaining all 4 projects in detail- https://docs.google.com/document/d/1zAvEi12iT9GHa_ZixZkMDS5aCwDbOlee7gjkXFChHTQ/edit?pli=1&tab=t.0
 

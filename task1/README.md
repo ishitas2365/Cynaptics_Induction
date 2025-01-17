@@ -1,7 +1,7 @@
 # finetune_for_persona
 Cynaptics induction task
 
-Link to Hugging Face repo- https://huggingface.co/ishitas2365/llama-3.2-3b-instruct-finetunedToPersona
+Link to Hugging Face repo (for model weights, visit here)- https://huggingface.co/ishitas2365/llama-3.2-3b-instruct-finetunedToPersona
 
 # Provision-
 We are given a persona-based chat dataset which consists of a hypothetical conversation between 2 personas A and B. We have to finetune any LLM on this dataset to inherit a persona and respond in a humane way.
